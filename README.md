@@ -1,7 +1,7 @@
 ### Seja Bem-Vindo! 👋
 
 - 📫 Contate-me no email: dev.lucashmarques@outlook.com
-- ⚡ Tentando me renovar a cada dia na programação
+- ⚡ Tentando melhorar a cada dia.
 
 <div align="center">
   <a href="https://github.com/LukasHMarques">
