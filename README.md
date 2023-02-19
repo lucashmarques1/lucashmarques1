@@ -1,7 +1,7 @@
 ### Seja Bem-Vindo! 👋
 
 - 📫 Contate-me no email: dev.lucashmarques@outlook.com
-- ⚡ Tentando melhorar a cada dia.
+- ⚡ Construímos muros demais e pontes de menos, Isaac Newton.
 
 <div align="center">
   <a href="https://github.com/LukasHMarques">
