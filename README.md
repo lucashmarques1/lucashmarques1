@@ -4,9 +4,9 @@
 - ⚡ Construímos muros demais e pontes de menos, Isaac Newton.
 
 <div align="center">
-  <a href="https://github.com/LukasHMarques">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=LukasHMarques&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukasHMarques&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+  <a href="https://github.com/LucasHMarques1">
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=LucasHMarques1&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasHMarques1&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
   
  <div style="display: inline_block"><br>
